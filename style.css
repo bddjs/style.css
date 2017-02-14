@@ -7,17 +7,15 @@ body {
 	/* background-color: yellow; */
 	max-width: 960px;
 	margin: 0 auto;
-	v
+	border-style: solid;
+	Border-color: black;
+	Border-width: 1px;
 }
 
 .wrapper:after{
 	content: "";
 	display: block;
 	clear: both;
-	border-style: solid;
-	Border-color: black;
-	Border-width: 1px;
-}
 }
 
 img{
