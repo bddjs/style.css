@@ -9,6 +9,12 @@ border-style: solid;
 	margin: 0 auto;
 }
 
+.wrapper:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+
 img{
 	float: left;
 	margin: 50px;
