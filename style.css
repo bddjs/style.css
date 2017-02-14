@@ -1,5 +1,5 @@
 body {
-border-style: solid;
+	border-style: solid;
 	Border-color: black;
 	Border-width: 1px;
 }
@@ -7,12 +7,17 @@ border-style: solid;
 	/* background-color: yellow; */
 	max-width: 960px;
 	margin: 0 auto;
+	v
 }
 
 .wrapper:after{
 	content: "";
 	display: block;
 	clear: both;
+	border-style: solid;
+	Border-color: black;
+	Border-width: 1px;
+}
 }
 
 img{
