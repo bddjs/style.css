@@ -36,6 +36,7 @@ margin: 0px;
 
 .wrapper {
 	background-color: yellow;
+	max-width: 960px;
 	margin: 0 auto;
 
 }
