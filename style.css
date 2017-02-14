@@ -4,7 +4,7 @@ border-style: solid;
 	Border-width: 1px;
 }
 .wrapper {
-	background-color: yellow;
+	/* background-color: yellow; */
 	max-width: 960px;
 	margin: 0 auto;
 }
