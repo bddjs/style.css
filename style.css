@@ -1,12 +1,14 @@
+
 /* Used in the Header Div */
 .head{
 	background-color: grey;
-	max-width: 760px;
+	max-width: 960px;
 	margin: auto;
 	margin-bottom: 60px;
 	font-family: "monoton", verdana;
 	font-size: 2em;
 	padding-left: 20px;
+
 }
 
 /* main wrapper of content */
@@ -23,6 +25,7 @@
 	float: left;
 	background-color: silver;
 	padding: 10px;
+	
 }
 
 
@@ -48,12 +51,14 @@ padding-left: 70px;
 }
 
 
+
 /* applied to the cd playlist OL tag */
 .face{
 line-height: 20px;
 padding-left: 50px;
 padding-top: 25px;
 }
+
 
 
 /* appied to policies section */
@@ -66,4 +71,6 @@ padding-top: 25px;
 	font-family: "verdana", Arial;
 	font-size: 13px;
 	line-height: 25px;
+
 }
+
