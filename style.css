@@ -1,32 +1,75 @@
-body {
-	border-style: solid;
-	Border-color: black;
-	Border-width: 1px;
-}
-.wrapper {
-	/* background-color: yellow; */
+/* Used in the Header Div */
+.head{
+	
+	height: 125px;
+	background-color: grey;
 	max-width: 960px;
-	margin: 0 auto;
-	border-style: solid;
-	Border-color: black;
-	Border-width: 1px;
-}
-
-.wrapper:after{
-	content: "";
-	display: block;
-	clear: both;
-}
-
-img{
-	float: left;
-	margin: 50px;
-}
-
-/*
-h1, h2, h3, p {
+	margin: auto;
+	margin-bottom: 60px;
+	font-family: "monoton", verdana;
+	font-size: 40px;
 	padding-left: 20px;
 }
 
-*/
+/* main wrapper of content */
+.wrapper {
+	background-color: white;
+	margin: 0 auto;
+	max-width: 960px;
+	margin-bottom: 0;
+}
 
+
+/* cd image artwork */
+.cdimage {
+	float: left;
+	background-color: silver;
+	padding: 10px;
+	
+}
+
+
+/* cd playlist */
+.cddata{
+float: left;
+background-color: white;
+font-family:  "BioRhyme", verdana;
+padding-left: 70px;
+}
+
+
+/* prod description */
+.desc {
+	padding-right: 520px;
+	padding-left: 50px;
+	padding-top: 30px;
+	padding-bottom: 3px;
+	background-color: white;
+	font-family: "verdana", arial; 
+	font-size: 15px; 
+	line-height: 25px;
+}
+
+
+
+/* applied to the cd playlist OL tag */
+.face{
+line-height: 20px;
+padding-left: 50px;
+padding-top: 25px;
+}
+
+
+
+/* appied to policies section */
+.pmarg {
+	padding-right: 75px;
+	padding-left: 50px;
+	padding-top: 30px;
+	padding-bottom: 50px;
+	background-color: silver;
+	font-family: "verdana", Arial;
+	font-size: 15px;
+	line-height: 23px;
+
+}
