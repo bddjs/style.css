@@ -2,7 +2,7 @@
 /* Used in the Header Div */
 .head{
 	background-color: grey;
-	max-width: 100%;
+	max-width: 960px;
 	margin: auto;
 	margin-bottom: 60px;
 	font-family: "monoton", verdana;
